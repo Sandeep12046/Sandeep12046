@@ -1,7 +1,7 @@
 ### Hi there, I'm Sandeep N 👋 
 
 
-- 🔭 I’m currently working on Todo-List project
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning react js
 
 <!--
