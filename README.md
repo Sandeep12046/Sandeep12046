@@ -3,6 +3,9 @@
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning react js
+- - 📫 How to reach me: 
+-                       Phone_no: 9008241563,
+-                       Email-Id: Sanjusandeep12046@gmail.com
 
 <!--
 **Sandeep12046/Sandeep12046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
