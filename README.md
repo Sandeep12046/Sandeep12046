@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Personal Website(portfolio)
 - 🌱 I’m currently learning react js
 - - 📫 How to reach me: 
--                       Phone_no: 9008241563,
+-                       Phone_no: 9008241563
 -                       Email-Id: Sanjusandeep12046@gmail.com
 
 <!--
