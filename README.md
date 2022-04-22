@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sandeep
+### Hi there 👋, My name is Sandeep
 
 Skills:  REACT / JS / HTML / CSS/SQL
 
