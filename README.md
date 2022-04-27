@@ -4,7 +4,10 @@ Skills:  REACT / JS / HTML / CSS/SQL
 
 - 🔭 I’m currently working on React js 
 - 🌱 I’m currently learning Redux 
-- 📫 How to reach me: sanjusandeep12046@gmail.com 
+- 📫 How to reach me: 
+-                     Email ID : sanjusandeep12046@gmail.com 
+-                     Phone : 9008241563
+-                     
 - 😄 Pronouns: Sundeep 
 
 
