@@ -4,7 +4,7 @@ Skills:  REACT / JS / HTML / CSS/SQL
 
 - 🔭 I’m currently working on React js 
 - 🌱 I’m currently learning Redux 
-- 📫 How to reach me: No-16,Haripriya green Layout,doddanagamangala, Electronic city-560100 
+- 📫 How to reach me: sanjusandeep12046@gmail.com 
 - 😄 Pronouns: Sundeep 
 
 
