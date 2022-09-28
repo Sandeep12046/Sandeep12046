@@ -19,9 +19,7 @@ Skills:  REACT / JS / HTML / CSS/SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep12046)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep12046&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sandeep12046)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Sandeep12046)  
 
